@@ -1,6 +1,10 @@
 ### Welcome  👋
-- 🔭 I’m **SOFTWARE ENGINEER (WEB DEV)**
-- 🌱 Working On Java, Spring Boot,Spring MVC, J2EE,Hibernate,JUnit&Mockito,Microservices, Java Messaging System Apache Kafka, MongoDB, Elastic Search, Kibana etc
+<br> 🔭 I’m **SOFTWARE ENGINEER (WEB DEV)** </br>
+<br> 💻 ᗩᑕTIᐯE ᒪEᗩᖇᑎIᑎG</br>
+<br> 🤝 TEᗩᗰᗯOᖇK</br>
+<br> 👨‍ ᑭᖇOᗷᒪEᗰ SOᒪᐯIᑎG</br>
+<br> 🌱 Working On Java, Spring Boot,Spring MVC, J2EE,Hibernate,JUnit&Mockito,Microservices, Java Messaging System Apache Kafka, MongoDB, Elastic Search, Kibana etc 
+
 ---
 ### Licenses & Certifications
 
@@ -20,7 +24,6 @@
 ### Contact
 - [ ] You can reach out to me @jyotikas1608@gmail.com
 - [ ] [Connect Me @LinkedIn](https://www.linkedin.com/in/jyoti-kashyap/)
-
 ---
 
 
