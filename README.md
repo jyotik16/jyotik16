@@ -3,7 +3,7 @@
 <br> 💻 ᗩᑕTIᐯE ᒪEᗩᖇᑎIᑎG</br>
 <br> 🤝 TEᗩᗰᗯOᖇK</br>
 <br> 👨‍ ᑭᖇOᗷᒪEᗰ SOᒪᐯIᑎG</br>
-<br> 🌱 Working On Java, Spring Boot,Spring MVC, J2EE,Hibernate,JUnit&Mockito,Microservices, Java Messaging System Apache Kafka, MongoDB, Elastic Search, Kibana etc 
+<br> 🌱 WORKING ON JAVA,J2EE, SPRING BOOT, SPRING MVC, HIBERNATE, MICROSERVICES, MOCKITO & JUNIT, MONGO DB, SQL SERVER, ELASTIC SEARCH, APACHE KAFKA etc 
 
 ---
 ### Licenses & Certifications
