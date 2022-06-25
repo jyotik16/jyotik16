@@ -9,7 +9,7 @@
 ---
 ### Tools & Technologies
 
-<img src='images/springboot1.png' alt='github' height='80'>
+<img src='images/git.png' alt='github' height='80'> <img src='images/springboot.png' alt='github' height='80'> <img src='images/github.png' alt='github' height='80'> <img src='images/java.png' alt='github' height='80'> <img src='images/azure.png' alt='maven' height='80'> <img src='images/mongodb.png' alt='github' height='80'> <img src='images/spring.png' alt='github' height='80'> <img src='images/sqlServer.png' alt='github' height='80'> <img src='images/maven.png' alt='github' height='80'> <img src='images/microservies.png' alt='github' height='80'> <img src='images/kibana.png' alt='github' height='80'> <img src='images/elastic.png' alt='github' height='80'>
 
 ---
 ### Education
@@ -22,14 +22,6 @@
 - [ ] [Connect Me @LinkedIn](https://www.linkedin.com/in/jyoti-kashyap/)
 
 ---
-
-
-
-
-
-
-
-
 
 
 
