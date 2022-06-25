@@ -6,8 +6,8 @@
 
  |                                                                        |                                                                            |
  |----                                                                    |   ----                                                                     |
- |<img  src="springboot1.png"  width="200px" height="200px">              | <img  src="AdvJava.jpg"  width="200px" height="200px">                     |
- |<img  src="camundaBPM.png"   width="200px" height="200px">              | <img  src="CodingBlocks.jpg" width="200px" height="200px">                                                                                 
+ |<img  src="images/springboot1.png"  width="200px" height="200px">       | <img  src="images/AdvJava.jpg"  width="200px" height="200px">              |
+ |<img  src="images/camundaBPM.png"   width="200px" height="200px">       | <img  src="images/CodingBlocks.jpg" width="200px" height="200px">          |                            
 ---
 ### Education
 - 🌱 Guru Gobind Indraprastha Univeristy **B.Tech (2016-2020)**
